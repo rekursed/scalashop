@@ -3,7 +3,105 @@
   <component name="ChangeListManager">
     <list default="true" id="acca6413-f096-45e4-a1e8-925073fb35b8" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/scalashop/package.scala" afterPath="$PROJECT_DIR$/src/main/scala/scalashop/package.scala" />
+      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$02072cb90ea3c0df23d1$.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$02072cb90ea3c0df23d1.cache" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$02072cb90ea3c0df23d1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$24a927c481bf275148bf$$anonfun$$sbtdef$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$24a927c481bf275148bf$.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$24a927c481bf275148bf.cache" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$24a927c481bf275148bf.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$2dc044453b550f682803$$anonfun$$sbtdef$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$2dc044453b550f682803$.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$2dc044453b550f682803.cache" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$2dc044453b550f682803.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$36aef9f6351d057d88c1$$anonfun$$sbtdef$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$36aef9f6351d057d88c1$.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$36aef9f6351d057d88c1.cache" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$36aef9f6351d057d88c1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$54c775207f28bdfe7a3c$.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$54c775207f28bdfe7a3c.cache" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$54c775207f28bdfe7a3c.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$599601d817a3740d7743$$anonfun$$sbtdef$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$599601d817a3740d7743$.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$599601d817a3740d7743.cache" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$599601d817a3740d7743.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$9348d03c6c88c959c00c$.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$9348d03c6c88c959c00c.cache" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$9348d03c6c88c959c00c.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$1cc820f06c6546a04935$$anonfun$$sbtdef$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$1cc820f06c6546a04935$.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$1cc820f06c6546a04935.cache" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$1cc820f06c6546a04935.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$2457f7a0c60f3173dd64$$anonfun$$sbtdef$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$2457f7a0c60f3173dd64$.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$2457f7a0c60f3173dd64.cache" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$2457f7a0c60f3173dd64.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$2bdb73322d5369dcc7d3$$anonfun$$sbtdef$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$2bdb73322d5369dcc7d3$.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$2bdb73322d5369dcc7d3.cache" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$2bdb73322d5369dcc7d3.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$34f111d5f51f77920e81$$anonfun$$sbtdef$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$34f111d5f51f77920e81$.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$34f111d5f51f77920e81.cache" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$34f111d5f51f77920e81.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$3548b02385604b52af51$$anonfun$$sbtdef$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$3548b02385604b52af51$.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$3548b02385604b52af51.cache" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$3548b02385604b52af51.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$38b9da92eb306647c397$$anonfun$$sbtdef$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$38b9da92eb306647c397$.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$38b9da92eb306647c397.cache" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$38b9da92eb306647c397.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$6c923968cf84d901f7df$$anonfun$$sbtdef$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$6c923968cf84d901f7df$.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$6c923968cf84d901f7df.cache" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$6c923968cf84d901f7df.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$92141f83c3cfa95e89ec$$anonfun$$sbtdef$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$92141f83c3cfa95e89ec$.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$92141f83c3cfa95e89ec.cache" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$92141f83c3cfa95e89ec.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$9da4fa8024aa2c236908$$anonfun$$sbtdef$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$9da4fa8024aa2c236908$.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$9da4fa8024aa2c236908.cache" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$9da4fa8024aa2c236908.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$d4bee02be56ab4cd5c4f$$anonfun$$sbtdef$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$d4bee02be56ab4cd5c4f$.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$d4bee02be56ab4cd5c4f.cache" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$d4bee02be56ab4cd5c4f.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$ebf97744263181e519c8$$anonfun$$sbtdef$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$ebf97744263181e519c8$.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$ebf97744263181e519c8.cache" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$ebf97744263181e519c8.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/target/resolution-cache/default/scalashop-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.properties" afterPath="$PROJECT_DIR$/project/target/resolution-cache/default/scalashop-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.properties" />
+      <change beforePath="$PROJECT_DIR$/project/target/resolution-cache/default/scalashop-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.xml" afterPath="$PROJECT_DIR$/project/target/resolution-cache/default/scalashop-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.xml" />
+      <change beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-scalashop-build-compile-internal.xml" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-scalashop-build-compile-internal.xml" />
+      <change beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-scalashop-build-compile.xml" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-scalashop-build-compile.xml" />
+      <change beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-scalashop-build-docs.xml" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-scalashop-build-docs.xml" />
+      <change beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-scalashop-build-optional.xml" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-scalashop-build-optional.xml" />
+      <change beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-scalashop-build-plugin.xml" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-scalashop-build-plugin.xml" />
+      <change beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-scalashop-build-pom.xml" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-scalashop-build-pom.xml" />
+      <change beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-scalashop-build-provided.xml" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-scalashop-build-provided.xml" />
+      <change beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-scalashop-build-runtime-internal.xml" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-scalashop-build-runtime-internal.xml" />
+      <change beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-scalashop-build-runtime.xml" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-scalashop-build-runtime.xml" />
+      <change beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-scalashop-build-scala-tool.xml" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-scalashop-build-scala-tool.xml" />
+      <change beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-scalashop-build-sources.xml" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-scalashop-build-sources.xml" />
+      <change beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-scalashop-build-test-internal.xml" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-scalashop-build-test-internal.xml" />
+      <change beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-scalashop-build-test.xml" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-scalashop-build-test.xml" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.10/output_dsp" afterPath="$PROJECT_DIR$/project/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.10/output_dsp" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/out" afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/out" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.10/inputs" afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.10/inputs" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.10/output" afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.10/output" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/copyResources/$global/streams/copy-resources" afterPath="$PROJECT_DIR$/project/target/streams/compile/copyResources/$global/streams/copy-resources" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/dependencyClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/project/target/streams/compile/dependencyClasspath/$global/streams/export" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/externalDependencyClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/project/target/streams/compile/externalDependencyClasspath/$global/streams/export" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/managedClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/project/target/streams/compile/managedClasspath/$global/streams/export" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/dependencyClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/project/target/streams/runtime/dependencyClasspath/$global/streams/export" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/externalDependencyClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/project/target/streams/runtime/externalDependencyClasspath/$global/streams/export" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/fullClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/project/target/streams/runtime/fullClasspath/$global/streams/export" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/managedClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/project/target/streams/runtime/managedClasspath/$global/streams/export" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/scalashop/HorizontalBoxBlur.scala" afterPath="$PROJECT_DIR$/src/main/scala/scalashop/HorizontalBoxBlur.scala" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/scalashop/VerticalBoxBlur.scala" afterPath="$PROJECT_DIR$/src/main/scala/scalashop/VerticalBoxBlur.scala" />
+      <change beforePath="$PROJECT_DIR$/target/.history" afterPath="$PROJECT_DIR$/target/.history" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/project/project/target/" />
@@ -25,18 +123,28 @@
       <file leaf-file-name="package.scala" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/scala/scalashop/package.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="291">
-              <caret line="35" column="18" lean-forward="true" selection-start-line="35" selection-start-column="18" selection-end-line="35" selection-end-column="18" />
+            <state relative-caret-position="132">
+              <caret line="35" column="18" lean-forward="false" selection-start-line="35" selection-start-column="18" selection-end-line="35" selection-end-column="18" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ScalaShop.scala" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/scalashop/ScalaShop.scala">
+      <file leaf-file-name="VerticalBoxBlur.scala" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/scalashop/VerticalBoxBlur.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1678">
-              <caret line="13" column="7" lean-forward="false" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
+            <state relative-caret-position="184">
+              <caret line="52" column="5" lean-forward="true" selection-start-line="52" selection-start-column="5" selection-end-line="52" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HorizontalBoxBlur.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/scalashop/HorizontalBoxBlur.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="130">
+              <caret line="49" column="34" lean-forward="false" selection-start-line="49" selection-start-column="28" selection-end-line="49" selection-end-column="34" />
               <folding />
             </state>
           </provider>
@@ -56,6 +164,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/main/scala/scalashop/package.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/scalashop/HorizontalBoxBlur.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/scalashop/VerticalBoxBlur.scala" />
       </list>
     </option>
   </component>
@@ -199,6 +309,12 @@
       <option name="HOST" value="localhost" />
       <option name="PORT" value="5005" />
     </configuration>
+    <configuration name="Scala Console" type="ScalaScriptConsoleRunConfiguration" factoryName="Scala Console" temporary="true">
+      <module name="root" />
+      <setting name="vmparams4" value="-Djline.terminal=NONE" />
+      <setting name="workingDirectory" value="$PROJECT_DIR$" />
+      <setting name="consoleArgs" value="-usejavacp" />
+    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -232,6 +348,11 @@
       <option name="PROGRAM_PARAMETERS" />
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Scala Console.Scala Console" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SbtLocalSettings">
     <option name="lastUpdateTimestamp" value="1517718023950" />
@@ -283,12 +404,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1517717810456</updated>
-      <workItem from="1517717823698" duration="3364000" />
+      <workItem from="1517717823698" duration="6253000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3364000" />
+    <option name="totallyTimeSpent" value="6253000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="5" y="63" width="1260" height="686" extended-state="0" />
@@ -308,7 +429,7 @@
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="sbt-shell-toolwindow" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="sbt-shell-toolwindow" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32899022" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32899022" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -337,18 +458,34 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/scala/scalashop/package.scala">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/scalashop/ScalaShop.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="291">
-          <caret line="35" column="18" lean-forward="true" selection-start-line="35" selection-start-column="18" selection-end-line="35" selection-end-column="18" />
+        <state relative-caret-position="-734">
+          <caret line="13" column="7" lean-forward="false" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/scalashop/ScalaShop.scala">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/scalashop/package.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1678">
-          <caret line="13" column="7" lean-forward="false" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
+        <state relative-caret-position="132">
+          <caret line="35" column="18" lean-forward="false" selection-start-line="35" selection-start-column="18" selection-end-line="35" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/scalashop/HorizontalBoxBlur.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="49" column="34" lean-forward="false" selection-start-line="49" selection-start-column="28" selection-end-line="49" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/scalashop/VerticalBoxBlur.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="52" column="5" lean-forward="true" selection-start-line="52" selection-start-column="5" selection-end-line="52" selection-end-column="5" />
           <folding />
         </state>
       </provider>

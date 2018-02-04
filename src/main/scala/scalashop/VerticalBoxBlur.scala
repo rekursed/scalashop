@@ -10,7 +10,7 @@ object VerticalBoxBlurRunner {
     Key.exec.maxWarmupRuns -> 10,
     Key.exec.benchRuns -> 10,
     Key.verbose -> true
-  ) withWarmer(new Warmer.Default)
+  ) withWarmer (new Warmer.Default)
 
   def main(args: Array[String]): Unit = {
     val radius = 3
@@ -37,25 +37,37 @@ object VerticalBoxBlurRunner {
 object VerticalBoxBlur {
 
   /** Blurs the columns of the source image `src` into the destination image
-   *  `dst`, starting with `from` and ending with `end` (non-inclusive).
-   *
-   *  Within each column, `blur` traverses the pixels by going from top to
-   *  bottom.
-   */
+    * `dst`, starting with `from` and ending with `end` (non-inclusive).
+    *
+    * Within each column, `blur` traverses the pixels by going from top to
+    * bottom.
+    */
   def blur(src: Img, dst: Img, from: Int, end: Int, radius: Int): Unit = {
     // TODO implement this method using the `boxBlurKernel` method
-    ???
+    for (
+      i <- from until end;
+      j <- 0 until src.height;
+      if i >= 0 && i <= src.width
+    ) yield {
+      dst.update(i, j, boxBlurKernel(src, i, j, radius))
+    }
   }
 
   /** Blurs the columns of the source image in parallel using `numTasks` tasks.
-   *
-   *  Parallelization is done by stripping the source image `src` into
-   *  `numTasks` separate strips, where each strip is composed of some number of
-   *  columns.
-   */
+    *
+    * Parallelization is done by stripping the source image `src` into
+    * `numTasks` separate strips, where each strip is composed of some number of
+    * columns.
+    */
   def parBlur(src: Img, dst: Img, numTasks: Int, radius: Int): Unit = {
     // TODO implement using the `task` construct and the `blur` method
-    ???
+    val strips = 0 to src.width by (src.width/numTasks max 1)
+    // creating sets of strip end values
+    strips.zip(strips.tail).map{
+      case(from,end) => task[Unit]{
+        blur(src,dst,from,end,radius)
+      }
+    }.foreach(_.join())
   }
 
 }
